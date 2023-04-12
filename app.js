@@ -1,5 +1,3 @@
-
-
 //Question 1
 // let input_1 = +prompt("enter no 1");
 // let input_2 = +prompt("enter no 2");
@@ -145,7 +143,7 @@ index = 0
 
 
 // let object_3 = {
-//     name:"Fatima",
+//     name:"huda",
 //     age: 19,
 //     phone_no:"578788684",
 //     height:"5'6",
